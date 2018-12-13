@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Who is JasonTrue
 
-You can use the [editor on GitHub](https://github.com/JasonTrue/jasontrue.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Jason Truesdell, a software developer, Seattleite, and now a resident of Kawasaki, Japan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've been writing code in one form or another since I was an 8 year old kid with a Texas Instruments TI-99/4A computer. I carefully avoided formally studying anything to do with computer science in college, though I sometimes helped friends with computer science homework and spend way too much time online (Bitnet, then the Internet), hosting radio shows on campus radio, and producing a music video show and news graphics for the campus TV station, and even a brief stint as an assistant editor at a community newspaper. I went on an exchange program to Germany, where I spent a lot of time cooking, studying Japanese, and learning about HTML and other internet technologies.
 
-### Markdown
+Somehow, I graduated with an East Asian Studies degree in 1996.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This terribly esoteric combination of activities led to my first "real" job at Microsoft in 1997, testing German and Japanese versions of Internet Explorer 4.0 for internationalization.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JasonTrue/jasontrue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fast forward to many years later, and I'm a software developer. You can hire me. Send me a message.
