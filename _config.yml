@@ -1,1 +1,19 @@
+title: Jason Truesdell | Software Developer | Kawasaki, Japan
+author: JasonTrue
+email: jason@yuzuten.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jason Truesdell, software developer, experienced in Ruby,
+  C#, Java, JavaScript, and Boo. Web applications, backend services,
+  domain driven design, and foolish inconsistency. I'll take
+  money in exchange for solving your complex business problems.
+  Or even simple ones, really.
+
+# social links
+twitter_username: YuzuTenCo
+github_username: JasonTrue
+instagram_username: JasonTrue
+linkedin_username: jasontruesdell
+
+show_excerpts: true
+
 theme: jekyll-theme-modernist
