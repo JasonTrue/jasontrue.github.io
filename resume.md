@@ -1,4 +1,4 @@
-# Jason Truesdell
+# Resume
 
 This is my light resume. You can email me if you'd like a more
 detailed one. Or if you'd like just a little more detail, you can
@@ -19,7 +19,7 @@ B.A. East Asian Studies, DePauw University, Greencastle, Indiana.
 **Japanese**. Daily conversation. Limited literacy. Have partcipated in
 business meetings held in Japanese but still not particularly sophisticated.
   
-## Career History                                         x
+## Career History
 
 ### Major arcs
 **2011-present: Principal, YuzuTen LLC**. Self-employed as a
@@ -65,5 +65,4 @@ department. Rationalized various legacy systems.
 skills to help build a new multi-brand front end in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
-
- 
+     
