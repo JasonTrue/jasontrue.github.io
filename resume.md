@@ -38,7 +38,7 @@ consultant.
 - Built microservices and domain-layer logic for a Japanese fashion brand.
 - Delivered major performance improvements and a new platform for a patient
   scheduling system at Dendreon, a biotech firm with a late-stage prostate cancer treatment.
-  Rearchitected. Initially focused on a .Net based system, we replaced pieces of their architecture with JVM solutions
+  Initially focused on a .Net based system, we replaced pieces of their architecture with JVM solutions
   aligned with the client's internal technology strategy. This project required me to dive deep into a complex domain, 
   and to integrate with a constraint solving system, ERP, and legacy database schemas, and to provide architectural
   guidance as we replaced legacy systems with a modern, testable, service-oriented architecture in Java + Groovy,
