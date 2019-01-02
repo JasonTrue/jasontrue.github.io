@@ -1,3 +1,8 @@
+---
+title: Jason Truesdell Mini-Resume
+layout: post
+---
+
 # Resume
 
 This is my light resume. You can [email me](mailto:jason@yuzuten.com) if you'd like a more
