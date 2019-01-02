@@ -18,3 +18,7 @@ linkedin_username: jasontruesdell
 show_excerpts: true
 
 theme: jekyll-theme-modernist
+
+plugins:
+  - "jekyll-github-metadata"
+

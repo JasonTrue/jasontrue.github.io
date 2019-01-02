@@ -1,8 +1,8 @@
 # Resume
 
-This is my light resume. You can email me if you'd like a more
+This is my light resume. You can [email me](mailto:jason@yuzuten.com) if you'd like a more
 detailed one. Or if you'd like just a little more detail, you can
-find me [on LinkedIn](https://www.linkedin.com/in/jasontruesdell/)
+find me [on LinkedIn](https://www.linkedin.com/in/jasontruesdell/).
 
 ## Education
 B.A. East Asian Studies, DePauw University, Greencastle, Indiana.
@@ -20,6 +20,11 @@ B.A. East Asian Studies, DePauw University, Greencastle, Indiana.
 business meetings held in Japanese but still not particularly sophisticated.
   
 ## Career History
+
+- ~3 years Solutions Engineering and Solutions Architecture
+- ~7 years as a Software Design Engineer
+- ~3 years as a Software Design Engineer in Test
+- ~8 years in software internationalization and QA
 
 ### Major arcs
 **2011-present: Principal, YuzuTen LLC**. Self-employed as a
@@ -55,13 +60,13 @@ teams to catch large categories of bugs early on. Created and delivered
 training for our division's first major test outsourcing effort in China.
   
 ### Notable tangents
-**2007-2008: Software Design Engineer in Test at Zillow, Inc when company
+**2007-2008: Software Design Engineer in Test at Zillow, Inc**. when company
 was around 150 employees.
 
 **2009-2010: Software Design Engineer at The Seattle Times.** New Media
 department. Rationalized various legacy systems.
 
-**2013-2014: Software Design Engineer at Getty Images. Leveraged my Ruby and C#
+**2013-2014: Software Design Engineer at Getty Images**. Leveraged my Ruby and C#
 skills to help build a new multi-brand front end in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
