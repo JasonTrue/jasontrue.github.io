@@ -9,3 +9,5 @@ Somehow, I graduated with an East Asian Studies degree in 1996.
 This terribly esoteric combination of activities led to my first "real" job at Microsoft in 1997, testing German and Japanese versions of Internet Explorer 4.0 for internationalization.
 
 Fast forward to many years later, and I'm a software developer. You can hire me. Send me a message.
+
+[Resume](resume.md)
