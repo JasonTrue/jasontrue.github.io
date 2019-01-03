@@ -15,4 +15,5 @@ This terribly esoteric combination of activities led to my first "real" job at M
 
 Fast forward to many years later, and I'm a software developer. You can hire me. Send me a [message](mailto:jason@yuzuten.com).
 
+## Where else am I
 {% include online_presence.md %} 
