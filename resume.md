@@ -1,6 +1,5 @@
 ---
 title: Jason Truesdell Mini-Resume
-layout: post
 ---
 
 # Resume
