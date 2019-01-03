@@ -20,7 +20,7 @@ B.A. East Asian Studies, DePauw University, Greencastle, Indiana.
  and decent enough at speaking. Once had university-suitable writing skills
  but quite out of practice.
  
-**Japanese**. Daily conversation. Limited literacy. Have partcipated in
+**Japanese**. Daily conversation. Limited literacy. Have participated in
 business meetings held in Japanese but still not particularly sophisticated.
   
 ## Career History
@@ -34,7 +34,8 @@ business meetings held in Japanese but still not particularly sophisticated.
 **2011-present: Principal, YuzuTen LLC**. Self-employed as a
 consultant.
 
-- Building a curated food exporting platform with a direct-to-consumer model that reduces inventory risk using group buying model.
+- Building a curated food exporting platform with a direct-to-consumer model that reduces
+ inventory risk using group buying model.
 - Building a crowdfunded decision-making service (Ochokochoi.com)
 - Built search services for a custom CRM system in Rails with ElasticSearch
 - Analyzed and improved performance in SQL/ActiveRecord in a complex Rails CRM app
