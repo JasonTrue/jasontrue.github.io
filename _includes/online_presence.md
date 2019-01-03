@@ -1,0 +1,4 @@
+* [JasonTrue on Github](https://github.com/JasonTrue)
+* [StackOverflow](https://stackoverflow.com/users/13433/jasontrue)
+* [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/users/7080/jasontrue)
+* [YuzuTenCo on Twitter](https://twitter.com/YuzuTenCo)

@@ -1,5 +1,6 @@
 ---
 title: Jason Truesdell Mini-Resume
+layouts: post
 ---
 
 # Resume
@@ -75,4 +76,6 @@ department. Rationalized various legacy systems.
 skills to help build a new multi-brand front end in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
-     
+
+### Find me online
+{% include online_presence.md %} 
