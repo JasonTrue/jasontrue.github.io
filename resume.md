@@ -33,7 +33,9 @@ business meetings held in Japanese but still not particularly sophisticated.
 
 ### Major arcs
 **2011-present: Principal, YuzuTen LLC**. Self-employed as a
-consultant.
+consultant. Primarily work as a software developer, but occasionally
+do team mentoring, technical screening and hiring, teaching, and
+team lead work. 
 
 - Building a curated food exporting platform with a direct-to-consumer model that reduces
  inventory risk using group buying model.
@@ -66,13 +68,13 @@ teams to catch large categories of bugs early on. Created and delivered
 training for our division's first major test outsourcing effort in China.
   
 ### Notable tangents
-**2007-2008: Software Design Engineer in Test at Zillow, Inc**. when company
+**2007-2008: Senior Software Design Engineer in Test at Zillow, Inc**. when company
 was around 150 employees.
 
-**2009-2010: Software Design Engineer at The Seattle Times.** New Media
+**2009-2010: Senior Software Design Engineer at The Seattle Times.** New Media
 department. Rationalized various legacy systems.
 
-**2013-2014: Software Design Engineer at Getty Images**. Leveraged my Ruby and C#
+**2013-2014: Senior Software Design Engineer at Getty Images**. Leveraged my Ruby and C#
 skills to help build a new multi-brand front end in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
