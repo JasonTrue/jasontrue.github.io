@@ -36,6 +36,7 @@ yet. F#, Elixir, OCaml, Scala, etc.
 - Designing for emergent application architecture.
 - Developing user personas and defining user stories based on
 their needs.
+- Documenting system design and APIs. Writing onboarding guides.
 - ElasticSearch is fun.
 - Integrations with 3rd party services like Stripe.
 
