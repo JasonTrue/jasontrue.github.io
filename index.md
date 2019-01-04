@@ -15,5 +15,37 @@ This terribly esoteric combination of activities led to my first "real" job at M
 
 Fast forward to many years later, and I'm a software developer. You can hire me. Send me a [message](mailto:jason@yuzuten.com).
 
+## What I dig
+
+Not all of these things are requirements, they just make me happier.
+
+- Teasing out a testable domain layer over time, building a common
+vocabulary between business and technical teams (Domain Driven Design)
+- Working directly with customers.
+- Solutions engineering, at least when I understand the domain and product
+ well.
+- Pairing, but not necessarily religiously.
+- Untangling ORM and database performance problems (including ActiveRecord, nHibernate, Hibernate).
+- Helping less senior engineers become better than I am.
+- Expressive object-oriented languages like Ruby, C#. 
+- Hybrid functional languages, even though I'm not very good at them
+yet. F#, Elixir, OCaml, Scala, etc.
+- Vue.js.
+- Internationalization and localizability.
+- Making teams better.
+- Designing for emergent application architecture.
+- Developing user personas and defining user stories based on
+their needs.
+- ElasticSearch is fun.
+- Integrations with 3rd party services like Stripe.
+
+## Other things I can do
+
+- Javascript
+- Java
+- Groovy
+- CSS
+- Legacy application improvements 
+
 ## Where else am I
 {% include online_presence.md %} 
