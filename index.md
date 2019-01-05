@@ -1,7 +1,7 @@
 ## Who is JasonTrue
 
 - [Resume](resume.md)
-- [My ancient blog](https://Blog.jagaimo.com)
+- [My ancient blog](https://blog.jagaimo.com)
 
 I'm Jason Truesdell, a software developer, Seattleite, and now a resident of Kawasaki, Japan.
 
@@ -44,7 +44,13 @@ their needs.
 - Java
 - Groovy
 - CSS
-- Legacy application improvements 
+- Legacy application improvements
+- Navigate Amazon Web Services (mainly EC2, Cloudfront, S3, Route53, ECR, EFS)but
+probably whatever else you need too)
+- Docker, Docker Swarm
 
 ## Where else am I
-{% include online_presence.md %} 
+{% include online_presence.md %}
+
+## My code
+[Public repositories I've contributed to](repositories.html) 

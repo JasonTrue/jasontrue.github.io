@@ -1,6 +1,6 @@
 ---
 title: Jason Truesdell Mini-Resume
-layouts: post
+layouts: default
 ---
 
 # Resume
