@@ -7,7 +7,7 @@
 
 I'm Jason Truesdell, a software developer, Seattleite, and now a resident of Kawasaki, Japan.
 
-I've been writing code in one form or another since I was an 8 year old kid with a Texas Instruments TI-99/4A computer. I carefully avoided formally studying anything to do with computer science in college, though I sometimes helped friends with computer science homework and spend way too much time online (Bitnet, then the Internet), hosting radio shows on campus radio, and producing a music video show and news graphics for the campus TV station, and even a brief stint as an assistant editor at a community newspaper. I went on an exchange program to Germany, where I spent a lot of time cooking, studying Japanese, and learning about HTML and other internet technologies.
+I've been writing code in one form or another since I was an 8 year old kid with a Texas Instruments TI-99/4A computer. I carefully avoided formally studying anything to do with computer science in college, though I sometimes helped friends with computer science homework and spent way too much time online (Bitnet, then the Internet), hosting radio shows on campus radio, and producing a music video show and news graphics for the campus TV station, and even a brief stint as an assistant editor at a community newspaper. I went on an exchange program to Germany, where I spent a lot of time cooking, studying Japanese, and learning about HTML and other internet technologies.
 
 Somehow, I graduated with an East Asian Studies degree in 1996.
 
