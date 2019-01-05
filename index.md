@@ -1,9 +1,7 @@
 ## Who is JasonTrue
 
 - [Resume](resume.md)
-- [Ochokochoi](https://www.Ochokochoi.com): Experimental crowdfunding side project
 - [My ancient blog](https://Blog.jagaimo.com)
-
 
 I'm Jason Truesdell, a software developer, Seattleite, and now a resident of Kawasaki, Japan.
 
