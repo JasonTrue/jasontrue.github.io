@@ -17,7 +17,7 @@ linkedin_username: jasontruesdell
 
 show_excerpts: true
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-jagaimo-one
 
 plugins:
   - "jekyll-github-metadata"

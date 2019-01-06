@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/jekyll-theme-jagaimo-one/jekyll-theme-jagaimo-one.git
+  revision: 0f34193d64ff695c22572d490805970120bef43a
+  branch: master
+  specs:
+    jekyll-theme-jagaimo-one (0.1.0)
+      jekyll (~> 3.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -244,6 +252,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-github-metadata
+  jekyll-theme-jagaimo-one!
 
 BUNDLED WITH
-   1.16.1
+   1.17.2
