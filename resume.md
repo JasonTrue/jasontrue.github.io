@@ -57,8 +57,8 @@ team lead work.
 - Subcontracted at Windermere Solutions LLC on a Rails project, focusing on content management and blogging.                        
 
 **2004-2009: Founder, Yuzu Trading Co. LLC and YuzuMura.com.**
-Ran a small wholesale business and web retail storefront selling specialty foods and ceramics from
-Japan, Hong Kong and other Asian specialty foods.
+Ran a small wholesale business and web retail storefront selling specialty foods, ceramics and
+other merchandise from Japan, Hong Kong, Thailand, and China.
 
 **1997-2004: Software Internationalization QA at Microsoft.** Started as
 an internationalization tester on Internet Explorer, functioned as a
