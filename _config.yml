@@ -1,5 +1,5 @@
 title: Jason Truesdell | Kawasaki, Japan & Seattle, WA
-author: JasonTrue
+author: Jason Truesdell
 email: jason@yuzuten.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason Truesdell is a software developer, experienced in Ruby,
@@ -9,7 +9,21 @@ description: > # this means to ignore newlines until "baseurl:"
   Or even simple ones. Available for contract and full-time work
   from Kawasaki, Japan. Travel ok.
 
-# social links
+# For SEO plugin
+social:
+  name: Jason Truesdell
+  links:
+    - https://twitter.com/YuzuTenCo
+    - https://www.linkedin.com/in/jasontruesdell
+
+#Also for SEO Plugin, but to support Twitter cards
+twitter:
+  username: YuzuTenCo
+  card: summary
+
+#social links
+#Based on guidance in a Github doc, but I don't see evidence these are
+#used anywhere.
 twitter_username: YuzuTenCo
 github_username: JasonTrue
 instagram_username: JasonTrue
@@ -20,5 +34,6 @@ show_excerpts: true
 theme: jekyll-theme-jagaimo-one
 
 plugins:
-  - "jekyll-github-metadata"
+  - jekyll-github-metadata
+  - jekyll-seo-tag
 
