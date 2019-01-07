@@ -49,7 +49,7 @@ their needs.
 - Groovy
 - CSS
 - Legacy application improvements
-- Navigate Amazon Web Services (mainly EC2, Cloudfront, S3, Route53, ECR, EFS)but
+- Navigate Amazon Web Services (mainly EC2, Cloudfront, S3, Route53, ECR, EFS) but
 probably whatever else you need too)
 - Docker, Docker Swarm
 
