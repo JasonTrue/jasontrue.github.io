@@ -21,19 +21,32 @@ twitter:
   username: YuzuTenCo
   card: summary
 
-#social links
-#Based on guidance in a Github doc, but I don't see evidence these are
-#used anywhere.
+# Social links
+# These are only used in some themes (like Minima). I'm now using all
+# but the stackoverflow link in my custom theme.
+
 twitter_username: YuzuTenCo
 github_username: JasonTrue
 instagram_username: JasonTrue
 linkedin_username: jasontruesdell
+stackoverflow_profile_url: https://stackoverflow.com/users/13433/jasontrue
 
 show_excerpts: true
 
-theme: jekyll-theme-jagaimo-one
+# When developing locally you will need to use the theme and a bundler
+# override, but when deploying to github you'll need to push it with
+# remote_theme set.
+#theme: jekyll-theme-jagaimo-one
+remote_theme: JasonTrue/jekyll-theme-jagaimo-one
 
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
+
+navigation:
+  Home: /
+  Resume: /resume.html
+  Repositories: /repositories.html
+
+copyright: "&copy; 2019 Jason Truesdell. All rights reserved."
 

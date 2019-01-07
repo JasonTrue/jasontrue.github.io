@@ -1,3 +1,7 @@
+---
+title: Hello, now this is a title
+layout: page
+---
 ## Who is JasonTrue
 
 - [Resume](resume.md)
