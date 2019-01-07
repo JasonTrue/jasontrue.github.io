@@ -1,5 +1,5 @@
 title: Jason Truesdell | Kawasaki, Japan & Seattle, WA
-author: JasonTrue
+author: Jason Truesdell
 email: jason@yuzuten.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason Truesdell is a software developer, experienced in Ruby,
@@ -9,16 +9,44 @@ description: > # this means to ignore newlines until "baseurl:"
   Or even simple ones. Available for contract and full-time work
   from Kawasaki, Japan. Travel ok.
 
-# social links
+# For SEO plugin
+social:
+  name: Jason Truesdell
+  links:
+    - https://twitter.com/YuzuTenCo
+    - https://www.linkedin.com/in/jasontruesdell
+
+#Also for SEO Plugin, but to support Twitter cards
+twitter:
+  username: YuzuTenCo
+  card: summary
+
+# Social links
+# These are only used in some themes (like Minima). I'm now using all
+# but the stackoverflow link in my custom theme.
+
 twitter_username: YuzuTenCo
 github_username: JasonTrue
 instagram_username: JasonTrue
 linkedin_username: jasontruesdell
+stackoverflow_profile_url: https://stackoverflow.com/users/13433/jasontrue
 
 show_excerpts: true
 
-theme: jekyll-theme-midnight
+# When developing locally you will need to use the theme and a bundler
+# override, but when deploying to github you'll need to push it with
+# remote_theme set.
+#theme: jekyll-theme-jagaimo-one
+remote_theme: JasonTrue/jekyll-theme-jagaimo-one
 
 plugins:
-  - "jekyll-github-metadata"
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+
+navigation:
+  Home: /
+  Resume: /resume.html
+  Repositories: /repositories.html
+
+copyright: "&copy; 2019 Jason Truesdell. All rights reserved."
 

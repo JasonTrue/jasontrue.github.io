@@ -1,0 +1,3 @@
+```javascript
+var myvalue=Object;
+```

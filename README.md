@@ -14,5 +14,6 @@ structural stuff that makes your life easier, however unlikely that may be. Note
 and it's worth almost as much as the price you paid to look at it.
 
 The text, and, if applicable, any images referenced, are almost certainly mine, and (C) 2019-last repo change date Jason Truesdell.
+Icons and theme content may be copyright by other parties (see the theme to be sure).
 
 Feel free to email if I can help you with anything (gotta job for me?) at jason@yuzuten.com.
