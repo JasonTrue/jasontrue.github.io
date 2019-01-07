@@ -1,5 +1,5 @@
 ---
-title: Hello, now this is a title
+title: Jason Truesdell, Software developer
 layout: page
 ---
 ## Who is JasonTrue
