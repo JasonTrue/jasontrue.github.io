@@ -50,7 +50,7 @@ their needs.
 - CSS
 - Legacy application improvements
 - Navigate Amazon Web Services (mainly EC2, Cloudfront, S3, Route53, ECR, EFS) but
-probably whatever else you need too)
+probably whatever else you need too
 - Docker, Docker Swarm
 
 ## Where else am I
