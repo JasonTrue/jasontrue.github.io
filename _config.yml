@@ -1,6 +1,5 @@
 title: Jason Truesdell | Kawasaki, Japan & Seattle, WA
-author:
-  twitter: YuzuTenCo
+author: Jason
 email: jason@yuzuten.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason Truesdell is a software developer, experienced in Ruby,
@@ -50,4 +49,11 @@ navigation:
   Repositories: /repositories.html
 
 copyright: "&copy; 2019 Jason Truesdell. All rights reserved."
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: https://s.jagaimo.com/images/jason-saginuma-modern-coffee.jpg
 
