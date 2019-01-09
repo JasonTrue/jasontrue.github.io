@@ -9,9 +9,10 @@ This is my light resume. You can [email me](mailto:jason@yuzuten.com)
 if you'd like to learn more, or set up an appointment to talk.
 If you'd like just a little more detail, you can
 find me [on LinkedIn](https://www.linkedin.com/in/jasontruesdell/).
-If you want my covers-basically-every-job-since-I-finished-college career history,
-here's my [full resume](https://s.jagaimo.com/personal/resume/Jason-Truesdell-Resume-latest.pdf) (pdf). 
 
+**[Full resume](https://s.jagaimo.com/personal/resume/Jason-Truesdell-Resume-latest.pdf) (PDF).** 
+If you want to see basically every job since I finished college, my full resume covers it.
+ 
 ## Education
 B.A. East Asian Studies, DePauw University, Greencastle, Indiana.
 
