@@ -57,3 +57,4 @@ defaults:
       image:
         path: https://s.jagaimo.com/images/jason-saginuma-modern-coffee.jpg
 
+google_analytics: UA-52437-2
