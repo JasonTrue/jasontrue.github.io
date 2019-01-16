@@ -21,7 +21,7 @@ cares anymore)
 * [honeybadger-java](https://github.com/honeybadger-io/honeybadger-java)
 
 ### Contributor:
-* [Semantic-UI-Vue](https://github.com/JasonTrue/Semantic-UI-Vue)
+* [Semantic-UI-Vue](https://github.com/Semantic-UI-Vue/Semantic-UI-Vue)
 
 ### Purely mine
 Please note that these aren't usually that interesting. In
