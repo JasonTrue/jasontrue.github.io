@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/JasonTrue/jekyll-theme-jagaimo-one
-  revision: 996b5139bf1180174fdc22acabafea2ca405f11f
+  revision: ac8f82aa339f7fbeac112b1dfe6f1be5c01efeee
   branch: master
   specs:
     jekyll-theme-jagaimo-one (0.0.1)

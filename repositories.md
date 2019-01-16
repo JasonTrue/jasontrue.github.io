@@ -32,5 +32,5 @@ when I was sleeplessly dealing with being a new father 6 years ago
 
 {% assign filtered_repos = site.github.public_repositories | where: "fork", false | where: "archived", false %}
 {% for repository in filtered_repos %}
-  * [{{ repository.name }}]({{ repository.html_url }})
+  * [{{ repository.name }}]({{ repository.html_url }}): {{repository.description}}
 {% endfor %}
