@@ -33,7 +33,7 @@ when I was sleeplessly dealing with being a new father 6 years ago.
 
 {% assign filtered_repos = site.github.public_repositories | where: "fork", false | where: "archived", false %}
 {% for repository in filtered_repos %}
-  * [{{ repository.name }}]({{ repository.html_url }}). {{repository.description}}
+  * [{{ repository.name }}]({{ repository.html_url }}). {{repository.description}} {%if repository.homepage%}[(Website)]({{repository.homepage}}){%endif%}
 {% endfor %}
 
 There's also a bit of stuff on my [YuzuTen organization page](https://github.com/YuzuTen) but
