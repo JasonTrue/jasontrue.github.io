@@ -36,7 +36,7 @@ business meetings held in Japanese but still not particularly sophisticated.
 - ~8 years in software internationalization and QA
 
 ### Major arcs
-**2011-present: Principal, YuzuTen LLC**. Self-employed as a
+**2011-present: Principal, [YuzuTen LLC](https://www.yuzuten.com/)**. Self-employed as a
 consultant. Primarily work as a software developer, but occasionally
 do team mentoring, technical screening and hiring, teaching, and
 team lead work. 
@@ -57,11 +57,11 @@ team lead work.
   applying a domain driven design approach. 
 - Subcontracted at Windermere Solutions LLC on a Rails project, focusing on content management and blogging.                        
 
-**2004-2009: Founder, Yuzu Trading Co. LLC and YuzuMura.com.**
+**2004-2009: Founder, Yuzu Trading Co. LLC and [YuzuMura.com](http://www.yuzumura.com/).**
 Ran a small wholesale business and web retail storefront selling specialty foods, ceramics and
 other merchandise from Japan, Hong Kong, Thailand, and China.
 
-**1997-2004: Software Internationalization QA at Microsoft.** Started as
+**1997-2004: Software Internationalization QA at [Microsoft](https://www.microsoft.com).** Started as
 an internationalization tester on Internet Explorer, functioned as a
 test lead managing about 13 people, including agency temporaries
 and full-time employees.
@@ -72,13 +72,13 @@ teams to catch large categories of bugs early on. Created and delivered
 training for our division's first major test outsourcing effort in China.
   
 ### Notable tangents
-**2007-2008: Senior Software Design Engineer in Test at Zillow, Inc**. when company
+**2007-2008: Senior Software Design Engineer in Test at [Zillow, Inc](https://www.zillow.com/)**. when company
 was around 150 employees.
 
-**2009-2010: Senior Software Design Engineer at The Seattle Times.** New Media
+**2009-2010: Senior Software Design Engineer at [The Seattle Times](https://www.seattletimes.com/).** New Media
 department. Rationalized various legacy systems.
 
-**2013-2014: Senior Software Design Engineer at Getty Images**. Leveraged my Ruby and C#
+**2013-2014: Senior Software Design Engineer at [Getty Images](https://www.gettyimages.co.jp/)**. Leveraged my Ruby and C#
 skills to help build a new multi-brand frontend in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
