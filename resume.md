@@ -78,7 +78,7 @@ was around 150 employees.
 **2009-2010: Senior Software Design Engineer at [The Seattle Times](https://www.seattletimes.com/).** New Media
 department. Rationalized various legacy systems.
 
-**2013-2014: Senior Software Design Engineer at [Getty Images](https://www.gettyimages.co.jp/)**. Leveraged my Ruby and C#
+**2013-2014: Senior Software Design Engineer at [Getty Images](https://www.gettyimages.com/)**. Leveraged my Ruby and C#
 skills to help build a new multi-brand frontend in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
