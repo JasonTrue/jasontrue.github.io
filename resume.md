@@ -79,7 +79,7 @@ was around 150 employees.
 department. Rationalized various legacy systems.
 
 **2013-2014: Senior Software Design Engineer at Getty Images**. Leveraged my Ruby and C#
-skills to help build a new multi-brand front end in Rails for Asset Detail information
+skills to help build a new multi-brand frontend in Rails for Asset Detail information
 for Getty's stock photography brands. Backend work included extending C# WebApi based
 services.
 
