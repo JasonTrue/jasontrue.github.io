@@ -2,6 +2,7 @@
 title: Jason Truesdell, Software developer
 layout: page
 ---
+
 ## Who is JasonTrue
 
 - [Resume](resume.md)
