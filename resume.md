@@ -41,6 +41,21 @@ consultant. Primarily work as a software developer, but occasionally
 do team mentoring, technical screening and hiring, teaching, and
 team lead work. 
 
+- Built initial architecture and implementation of a manufacturing line telemetry platform
+      for a US-based startup with a Japan-based manufacturing client. Developed a gateway
+      solution that collects sensor data from programmable logic controllers and ships to an
+      ElasticSearch Backend Elixir/OTP with a transform. Coordinated with customer to deliver
+      visualizations and dashboards, initially in Kibana, then leveraged feedback to build
+      a custom dashboard and alerting platform.</li>
+- As a Technical Program Manager for a Japanese client, designed architectural solutions
+      for a SaaS project management and customer relationship management platform with a
+      cryptographically verifiable audit trail. Vetted vendor implementation plans and drove
+      revisions to meet client’s platform strategy. Provided internationalization and security
+      guidance and plotted AWS architecture approach in a system that use Designed the audit
+      trail solution using QLDB and ElasticSearch with a mechanism to ensure GDPR-compliant PII
+      cleansing compatibilities against an immutable data store. Drove notification
+      microservice design supporting a publish/subscribe model to surface key system events
+      to interested users. Solved numerous AWS infrastructure design and implementation challenges.
 - Building a curated food exporting platform with a direct-to-consumer model that reduces
  inventory risk using group buying model.
 - Building a crowdfunded decision-making service (Ochokochoi.com)

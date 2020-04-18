@@ -30,7 +30,7 @@ twitter:
 
 twitter_username: YuzuTenCo
 github_username: JasonTrue
-instagram_username: JasonTrue
+instagram_username: jasntru
 linkedin_username: jasontruesdell
 stackoverflow_profile_url: https://stackoverflow.com/users/13433/jasontrue
 
@@ -52,7 +52,7 @@ navigation:
   Resume: /resume.html
   Repositories: /repositories.html
 
-copyright: "&copy; 2019 Jason Truesdell. All rights reserved."
+copyright: "&copy; 2019-2020 Jason Truesdell. All rights reserved."
 
 defaults:
   - scope:
