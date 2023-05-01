@@ -30,9 +30,8 @@ business meetings held in Japanese but still not particularly sophisticated.
   
 ## Career History
 
-- ~3 years Solutions Engineering and Solutions Architecture
-- ~7 years as a Software Design Engineer
-- ~3 years as a Software Design Engineer in Test
+- ~17 years doing software development, with occasional bouts of program management,
+product focus, and team leadership.
 - ~8 years in software internationalization and QA
 
 ### Major arcs
