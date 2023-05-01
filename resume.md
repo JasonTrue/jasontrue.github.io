@@ -36,6 +36,30 @@ business meetings held in Japanese but still not particularly sophisticated.
 - ~8 years in software internationalization and QA
 
 ### Major arcs
+
+**2020-Present:  Principal Software Architect. Executive Director of IndustrialML GK (Japan). 
+February 2020-present; converted from part-time consulting role which started spring 2019.
+
+- Worked closely with the CEO and our pilot customers to refine strategic direction and
+technical priorities, balancing short-term customer needs and long-term product goals. Built
+the foundations of an industrial telemetry platform, starting from proofs of concept to
+production deployment.
+- Designed and implemented the key systems of our SaaS platform, including our IoT gateway
+for factory telemetry collection, our core customer-facing web application, authorization
+model, a video pipeline using PoE industrial cameras for streaming and machine learning,
+notifications, automated capture and transcription of worker audio communications, our CI
+and deployment pipeline, and key infrastructure.
+- Recruited, hired, onboarded, and managed engineering staff, with a range of experience,
+ranging from a fresh coding bootcamp graduate to people with 20+ years of industry
+experience.
+- Provided technical expertise in sales calls and partner meetings, and directly engaged with
+our customers on solutions architecture, solutions engineering, and requirements gathering
+efforts.
+- Made key product decisions, balancing strategic considerations, customer requests, and
+resource constraints.
+- Wrote high level architecture and technical design documents both for internal and external
+audiences.
+
 **2011-present: Principal, [YuzuTen LLC](https://www.yuzuten.com/)**. Self-employed as a
 consultant. Primarily work as a software developer, but occasionally
 do team mentoring, technical screening and hiring, teaching, and
@@ -44,22 +68,22 @@ team lead work.
 - Built initial architecture and implementation of a manufacturing line telemetry platform
       for a US-based startup with a Japan-based manufacturing client. Developed a gateway
       solution that collects sensor data from programmable logic controllers and ships to an
-      ElasticSearch Backend Elixir/OTP with a transform. Coordinated with customer to deliver
+      Elasticsearch Backend Elixir/OTP with a transform. Coordinated with customer to deliver
       visualizations and dashboards, initially in Kibana, then leveraged feedback to build
-      a custom dashboard and alerting platform.</li>
+      a custom dashboard and alerting platform.
 - As a Technical Program Manager for a Japanese client, designed architectural solutions
       for a SaaS project management and customer relationship management platform with a
       cryptographically verifiable audit trail. Vetted vendor implementation plans and drove
       revisions to meet client’s platform strategy. Provided internationalization and security
       guidance and plotted AWS architecture approach in a system that use Designed the audit
-      trail solution using QLDB and ElasticSearch with a mechanism to ensure GDPR-compliant PII
+      trail solution using QLDB and Elasticsearch with a mechanism to ensure GDPR-compliant PII
       cleansing compatibilities against an immutable data store. Drove notification
       microservice design supporting a publish/subscribe model to surface key system events
       to interested users. Solved numerous AWS infrastructure design and implementation challenges.
 - Building a curated food exporting platform with a direct-to-consumer model that reduces
  inventory risk using group buying model.
 - Building a crowdfunded decision-making service (Ochokochoi.com)
-- Built search services for a custom CRM system in Rails with ElasticSearch
+- Built search services for a custom CRM system in Rails with Elasticsearch
 - Analyzed and improved performance in SQL/ActiveRecord in a complex Rails CRM app
 - Built and improved custom open-source clients in Java and JavaScript for an exception monitoring service
 - Built microservices and domain-layer logic for a Japanese fashion brand.
