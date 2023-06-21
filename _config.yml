@@ -2,7 +2,7 @@ title: Jason Truesdell | Kawasaki, Japan & Seattle, WA
 author: Jason
 email: jason@yuzuten.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jason Truesdell is a software developer, experienced in Ruby,
+  Jason Truesdell is a software developer, experienced in Elixir, Ruby,
   C#, Java, JavaScript, and Boo. Web applications, backend services,
   domain driven design, and foolish inconsistency. Loves
   digging into solutions for complex business problems.
@@ -52,7 +52,7 @@ navigation:
   Resume: /resume.html
   Repositories: /repositories.html
 
-copyright: "&copy; 2019-2020 Jason Truesdell. All rights reserved."
+copyright: "&copy; 2019-2023 Jason Truesdell. All rights reserved."
 
 defaults:
   - scope:
