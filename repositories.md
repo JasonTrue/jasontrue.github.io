@@ -13,10 +13,13 @@ Here's a selection of things that I have been involved in
 recently that are open-source. (I'm also a contributor to a few
 other projects, but many of those are so long ago nobody
 cares anymore).
- 
+
+### Creator
+* [membrane-s3-plugin](https://github.com/YuzuTen/membrane_s3_plugin)
+
 ### Committer: Early and active involvement
-* [honeybadger-vue](https://github.com/honeybadger-io/honeybadger-vue)
-* [honeybadger-react](https://github.com/honeybadger-io/honeybadger-react)
+* [honeybadger-vue](https://github.com/honeybadger-io/honeybadger-vue) (this is now in [honeybadger-js](https://github.com/honeybadger-io/honeybadger-js))
+* [honeybadger-react](https://github.com/honeybadger-io/honeybadger-react)  (this is now in [honeybadger-js](https://github.com/honeybadger-io/honeybadger-js))
 
 ### Committer: Maintenance, active involvement
 * [honeybadger-java](https://github.com/honeybadger-io/honeybadger-java)
