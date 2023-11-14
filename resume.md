@@ -37,7 +37,7 @@ business meetings held in Japanese but still not particularly sophisticated.
 
 ### Major arcs
 
-**2020-Present:  Principal Software Architect, [IndustrialML](https://industrialml.com/),
+**2020-Present: Chief Technology Officer. [IndustrialML](https://industrialml.com/).
 Executive Director of IndustrialML GK (Japan).**
 Converted from part-time consulting role which started spring 2019.
 
