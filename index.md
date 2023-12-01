@@ -24,6 +24,7 @@ sometimes "executive director" when the situation demands it. You can hire me. S
 
 Not all of these things are requirements, they just make me happier.
 
+- Staffing up and building software teams (engineering, program management, UX, marketing)
 - Working directly with customers.
 - Teasing out a testable domain layer over time, building a common
   vocabulary between business and technical teams (Domain Driven Design)
